@@ -15,3 +15,6 @@ Monthly Sales & Profit % for a detailed month-wise breakdown.
 
 ## Why Excel Dashboards Matter
 "An Excel dashboard is a visual tool that consolidates important data and metrics into one place. It empowers decision-makers to quickly understand and analyze information for better outcomes
+
+## Dashboard Image
+::{E88865EA-0E1C-4E20-9AA6-EDCD0212C87C}
