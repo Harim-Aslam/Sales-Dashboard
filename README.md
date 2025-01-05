@@ -17,4 +17,5 @@ Monthly Sales & Profit % for a detailed month-wise breakdown.
 "An Excel dashboard is a visual tool that consolidates important data and metrics into one place. It empowers decision-makers to quickly understand and analyze information for better outcomes
 
 ## Dashboard Image
-https://github.com/Harim-Aslam/Sales-Dashboard/blob/main/Screenshot%202025-01-06%20004033.png
+![Dashboard Preview](https://github.com/Harim-Aslam/Sales-Dashboard/blob/main/Screenshot%202025-01-06%20004033.png)
+
